@@ -1,0 +1,6 @@
+name = "hash-api"
+main = "src/index.js"
+compatibility_date = "2025-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+routes = [{ pattern = "api.gadgethumans.com/hash-api/*", zone_id = "79adde7c085c4888dcde6947395dc8a7" }]
