@@ -4,6 +4,8 @@
 
 **Base URL:** `https://api.gadgethumans.com/hash`
 
+📡 Part of the [API Hub](https://github.com/scotia1973-bot/api-hub) — a collection of free, no-signup APIs.
+
 ## Self-Host
 
 ```bash
